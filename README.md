@@ -20,5 +20,14 @@ The Spring Boot Quiz Application is a robust web-based platform designed for cre
 2. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/quiz-app-spring.git
+3. Configure the database: Update **src/main/resources/application.properties** with your MySQL settings.
+Build and run the application:
+       ```bash
+   mvn package
+java -jar target/quizapp-0.0.1-SNAPSHOT.jar
+
+## How to Contribute
+
+Contributors are welcome to enhance the functionalities, tackle bugs, and improve the documentation. If you have suggestions or improvements, submit a pull request or open an issue.
 
 
