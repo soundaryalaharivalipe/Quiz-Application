@@ -22,9 +22,9 @@ The Spring Boot Quiz Application is a robust web-based platform designed for cre
    git clone https://github.com/yourusername/quiz-app-spring.git
 3. Configure the database: Update **src/main/resources/application.properties** with your MySQL settings.
 Build and run the application:
-       ```bash
+   ```bash
    mvn package
-java -jar target/quizapp-0.0.1-SNAPSHOT.jar
+   java -jar target/quizapp-0.0.1-SNAPSHOT.jar
 
 ## How to Contribute
 
