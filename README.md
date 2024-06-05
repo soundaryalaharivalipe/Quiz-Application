@@ -26,7 +26,7 @@ Build and run the application:
    mvn package
    java -jar target/quizapp-0.0.1-SNAPSHOT.jar
 
-## How to Contribute
+## Contributions
 
 Contributors are welcome to enhance the functionalities, tackle bugs, and improve the documentation. If you have suggestions or improvements, submit a pull request or open an issue.
 
