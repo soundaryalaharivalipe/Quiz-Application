@@ -57,3 +57,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 After starting the server, open your browser and go to http://localhost:3000 to start using the chat application. Sign up to create an account, or log in if you already have one, and begin chatting!
 
+## Screenshots 
+![image](https://github.com/soundaryalaharivalipe/Quiz-Application/assets/169948476/f4be5cba-c7f8-4dfe-9bf5-90501b926e2e)
+
+**User login**
+
+
