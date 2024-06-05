@@ -60,6 +60,9 @@ After starting the server, open your browser and go to http://localhost:3000 to 
 ## Screenshots 
 ![image](https://github.com/soundaryalaharivalipe/Quiz-Application/assets/169948476/f4be5cba-c7f8-4dfe-9bf5-90501b926e2e)
 
-**User login**
+**Fig 1 - User login**
+
+![image](https://github.com/soundaryalaharivalipe/Quiz-Application/assets/169948476/ff988ff7-5321-4af1-8e07-ce20734edacd)
+**Fig 2 - Chat Window**
 
 
